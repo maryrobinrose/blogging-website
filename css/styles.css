@@ -6,17 +6,23 @@
 .blog1{
   color: red;
   font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 30px;
 
 }
 .blog2{
   color: orange;
   font-size: 24;
   font-weight: bolder;
+  margin-top: 2px;
+  margin-bottom: 60px;
 
 }
 .blog3{
   color: yellow;
   font-size: 24;
   font-weight: bolder;
+  margin-top: 25px;
+  margin-bottom: 50px;
 
 }
